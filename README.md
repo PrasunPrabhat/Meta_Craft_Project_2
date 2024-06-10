@@ -17,11 +17,11 @@ REQUIREMENTS<br>
 
 contract MyToken {
 
-// public variables here
-
-// mapping variable here
-
-// mint function
-
-// burn function
+            // public variables here
+            
+            // mapping variable here
+            
+            // mint function
+            
+            // burn function
 }
